@@ -1,0 +1,25 @@
+.search-box {
+  margin: 20px;
+}
+
+.search-box input, 
+.search-box select, 
+.search-box button {
+  padding: 10px;
+  margin: 5px;
+}
+
+.recipe-card {
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 250px;
+  margin: 10px;
+  background: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.recipe-card img {
+  max-width: 100%;
+  border-radius: 5px;
+}
